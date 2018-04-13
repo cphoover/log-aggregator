@@ -7,7 +7,7 @@
     "sequelize": "^4.37.6",
     "sequelize-cli": "^4.0.0"
   },
-  "name": "log-viewer",
+  "name": "log-aggregator",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
