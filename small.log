@@ -1,0 +1,3 @@
+[52d899eb-c063-4ca4-9d3e-601096ddd105] Started GET "/api/series/2" for 127.0.0.1 at 2016-03-30 15:58:53 -0400 
+[52d899eb-c063-4ca4-9d3e-601096ddd105] Processing by Api::SeriesController#show as JSON 
+[52d899eb-c063-4ca4-9d3e-601096ddd105]   Parameters: {"id"=>"2"}
